@@ -1,0 +1,34 @@
+# Adicionar um repositório do computador local ao GitHub Desktop
+
+É possível adicionar qualquer repositório Git ao GitHub Desktop, mesmo que não seja um repositório do GitHub.
+
+> \[!TIP]
+> Você pode adicionar um repositório Git do computador local ao GitHub Desktop arrastando a pasta para a janela do GitHub Desktop. Ao arrastar várias pastas do Git para o GitHub Desktop simultaneamente, cada pasta será acessada como um repositório Git individual.
+
+<div class="ghd-tool mac">
+
+1. Na barra de menus, selecione **Arquivo** e clique em **Adicionar Repositório Local**.
+
+![Captura de tela da barra de menus no Mac. O menu suspenso "Arquivo" está aberto e uma opção rotulada como "Adicionar Repositório Local" está com um contorno laranja.](/assets/images/help/desktop/add-local-repository-mac.png)
+
+1. Na janela "Adicionar Repositório Local", clique em **Escolher...** e, em seguida, use a janela Localizador para navegar até o repositório local que deseja adicionar.
+
+![Captura de tela da janela "Adicionar Repositório Local". Ao lado do campo "caminho do repositório", um botão chamado "Escolher" está contornado em laranja.](/assets/images/help/desktop/add-repo-choose-button-mac.png)
+
+1. Quando você tiver escolhido o repositório local, na janela "Adicionar Repositório Local", clique em **Adicionar Repositório**.
+
+</div>
+
+<div class="ghd-tool windows">
+
+1. Na barra de menus, selecione **Arquivo** e clique em **Adicionar repositório local**.
+
+![Captura de tela da barra de menus no Windows. O menu suspenso "Arquivo" está aberto e uma opção rotulada como "Adicionar repositório local" está com um contorno laranja.](/assets/images/help/desktop/add-local-repository-windows.png)
+
+1. Na janela "Adicionar repositório local", clique em **Escolher...** e use o Windows Explorer para navegar até o repositório local que você deseja adicionar.
+
+![Captura de tela da janela "Adicionar repositório local". Ao lado do campo "repository path", um botão com o rótulo "Escolher" está destacado em laranja.](/assets/images/help/desktop/add-repo-choose-button-mac.png)
+
+1. Clique em **Adicionar repositório**.
+
+</div>
